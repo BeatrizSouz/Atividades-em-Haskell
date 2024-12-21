@@ -1,4 +1,4 @@
-# Atividades-em-Haskell
+<p align="center"> <strong># Atividades-em-Haskell</strong> </P>
 <p align="center"> <strong>
 Alguns exercícios resolvidos utilizando o Haskell, linguagem de programação funcional. </strong> </P>
 
