@@ -1,0 +1,2 @@
+Fornecidos três valores, a,b e c, escreva uma função que retorne quantos dos três são iguais. 
+A resposta pode ser 3 (são todos iguais), 2 (dois iguais e o terceiro diferente) ou 0 (todos diferentes).
